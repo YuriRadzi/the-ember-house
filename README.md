@@ -7,7 +7,7 @@ Este projeto tem como objetivo analisar o dataset "Coffee Bean Dataset Resized",
 * Data set de análise: [Coffee Bean Dataset Resized](https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224)  
 
 
-## equipe
+## Equipe
 1) Felipe Israel dos Santos (R.A.: 10729570)
 2) Ingryd Cristiane Hidalgo Sella (R.A.: 10424934)
 3) Juliana de Oliveira Sato (R.A.: 10727587)
