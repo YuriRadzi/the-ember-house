@@ -1,0 +1,12 @@
+/data/*
+!/data/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.env
+*.sqlite3
+.DS_Store
+.ipynb_checkpoints/
