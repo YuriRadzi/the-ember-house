@@ -12,3 +12,6 @@ Este projeto tem como objetivo analisar o dataset "Coffee Bean Dataset Resized",
 2) Ingryd Cristiane Hidalgo Sella (R.A.: 10424934)
 3) Juliana de Oliveira Sato (R.A.: 10727587)
 4) Yuri dos Santos Radziwill (R.A.: 10730741)
+
+## Apresentação final
+https://www.youtube.com/watch?v=O4Q2aEOqOEc
